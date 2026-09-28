@@ -161,7 +161,7 @@ function Contact() {
                                 <FaTwitter />
                             </a>
                             <a 
-                            href='#'
+                            href='https://dribbble.com/hardik-dhoriya'
                             className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-pink hover:bg-pink hover:text-white transition duration-300'
                             >
                                 <FaDribbble />
