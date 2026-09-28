@@ -155,7 +155,7 @@ function Contact() {
                                 <FaLinkedin />
                             </a>
                             <a 
-                            href='#'
+                            href='https://x.com/Hardik20033'
                             className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-blue-400 hover:bg-blue-400 hover:text-white transition duration-300'
                             >
                                 <FaTwitter />
